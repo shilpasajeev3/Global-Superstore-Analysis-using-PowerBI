@@ -6,3 +6,4 @@ The dataset underwent a thorough cleaning and transformation process to ensure d
 ## Dashboard Components
 The PowerBI dashboard comprises the following key components:
 ### Cards
+Essential metrics are displayed using cards, presenting key indicators such as total sales, total quantity, total profit, and total discount. These metrics offer a quick snapshot of the overall sales performance.
